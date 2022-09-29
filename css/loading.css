@@ -8,6 +8,7 @@ body {
 }
 
 .c-loader {
+    text-align: center;
     border-radius: 50%;
     animation: is-rotating 1s infinite;
     width: 30px;
